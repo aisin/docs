@@ -113,7 +113,7 @@ msgstr "安装完成后可运行MongoDB"
 
 #: ../source/tutorial/install-mongodb-on-windows.txt:32
 msgid "Do not make :program:`mongod.exe` visible on public networks without running in \"Secure Mode\" with the :setting:`auth` setting. MongoDB is designed to be run in trusted environments, and the database does not enable \"Secure Mode\" by default."
-msgstr "为了数据安全，不要让“mongod。exe”在公共网络上没有运行。可选择安全模式验证进行设置"
+msgstr "为了数据安全，不要让“mongod.exe”在公共网络上运行。可选择安全模式验证进行设置"
 
 #: ../source/includes/steps/run-mongodb-on-windows.rst:8
 msgid "Set up the MongoDB environment."
